@@ -1,1 +1,1 @@
-# BD_all-labs_2024
+# Data_Structure_all-labs_2024
